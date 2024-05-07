@@ -7,11 +7,11 @@ class AppConstants {
  //  static const String APP_NAME = 'Crystal Eyee';
  //  static const double APP_VERSION = 1.1;
  //  static const String THEME = 'theme';
- //  static const String STRIP_ID = '';
+ //  static const String  = '';
  //  static  RxString Admin_wallet="0".obs;
  // // client strip account
- // //  static const String SECRET_KEY = '';
- //  static const String Admin_CrystalEyee = '';
- //  static const String Admin_Playstore = '';
+ // //  static const String  = '';
+ //  static const String  = '';
+ //  static const String  = '';
  //  static const String Admin_shahid = '';
 }
